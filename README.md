@@ -1,4 +1,4 @@
-## OIE, Erick Dantas Aqui!!
+## OIE, Erick Dantas Programador Back-end   Junior
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albionon&showicons=true&theme=algolia&hide=issues&locale=en&card_width=500px) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albionon&layout=compact&theme=algolia&langs_count=8)
 
